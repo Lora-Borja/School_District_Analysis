@@ -25,19 +25,13 @@ This project required the analysis of high school test scores data in order to p
 ![ReadingScores_ByGrade_InitialAnalysis]()
 
 
-* The school performance based on the budget per student
+* The school performance and trends based on the budget per student, based on school size, and based on school types
 ![Spending_Summary_InitialAnalysis]()
 
 ![SchoolSize_Summary_InitialAnalysis]()
 
 ![SchoolType_Summary_InitialAnalysis]()
 
-
-* The trends based on school size
-![Election_Results_Snapshot](https://github.com/Lora-Borja/Election_Analysis/blob/main/analysis/Election_Results_Snapshot.PNG)
-
-* The trends based on the type of school
-![Election_Results_Snapshot](https://github.com/Lora-Borja/Election_Analysis/blob/main/analysis/Election_Results_Snapshot.PNG)
 
 After the initial analysis was complete, the challenge was to perform a re-analysis due to evidence of academic dishonesty within the reading and math scores of Thomas High School's ninth grade students. The process of repeating the analysis required a comparison with the inital results in order to determine whether the changes affected the overall analysis. The observations from the comparison are stated in the re-analysis results below.
 
